@@ -1,0 +1,18 @@
+{
+    "status": 0,
+    "data": {
+        "id": 45,
+        "categoryId": 100012,
+        "name": "红米Note 7",
+        "subtitle": "4800万拍照千元机 / 品质“小金刚”",
+        "mainImage": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1551869450.61563110.jpg",
+        "subImages": null,
+        "detail": null,
+        "price": 999,
+        "stock": 9999999,
+        "status": 1,
+        "createTime": "2019-10-15 10:06:38",
+        "updateTime": "2019-10-15 10:06:42",
+        "parentCategoryId": 100002
+    }
+}
